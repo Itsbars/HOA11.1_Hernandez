@@ -1,0 +1,7 @@
+# WEB SERVER
+[web_servers]
+192.168.56.102
+
+# DB SERVER
+[db_servers]
+ahernandez@192.168.56.115
